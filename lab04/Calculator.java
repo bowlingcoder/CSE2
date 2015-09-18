@@ -1,3 +1,7 @@
+//Calculator 
+//Alex James
+//CSE 002
+//9-18-2015
 import java.util.Scanner; // calls Scanner Class
 public class Calculator{
 	public static void main(String[] args) { //main method
